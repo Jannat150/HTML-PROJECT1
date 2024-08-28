@@ -1,0 +1,352 @@
+  body{
+    width:100vw;
+    margin:0%;
+    padding:0%;
+    overflow-x: hidden;
+}
+
+ #shoes{
+    background-color: black;
+    color:azure;
+    text-align: center;
+    height: 15px;
+    font-size: 16px;
+    font-family: "Brandon Text", Arial, sans-serif;
+    padding: 12px 0px 10px;
+}
+#nord{
+    display: flex;
+    
+    justify-content: space-between;
+    padding: 30px;
+    
+
+    margin-left:20 px;
+}
+#search{
+    width: 100vw;
+    
+    margin: 10px;
+}
+h3{
+    padding: 20px;
+}
+
+#new{
+    display: flex;
+    justify-content: space-between;
+    font-weight: lighter;
+}
+.home{
+    font-weight: 100;
+    font-family: "Brandon Text", Arial, sans-serif;
+    font-size: 15px;
+
+}
+#girl{
+    width: 100vw;
+    /* height: 500px; */
+}
+#club{
+    margin-top: 50px;
+    width:100%;
+    /* height: 150px; */
+    margin-bottom: 60px;
+}
+#shop{
+    margin-top:30px;
+    text-align: center;
+    font-family: "Brandon Text", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+
+
+    
+}
+#a{
+    text-align: center;
+    margin-top: 10px;
+    padding: 1px;
+    font-family: "Brandon Text", Arial, sans-serif;
+    color: #191A1B;
+}
+#photo{
+    display: flex; 
+    width: 50%;
+    /* height: 280px; */
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+hr{
+    border: solid 2px black;
+}
+#get{
+    letter-spacing: 4px;
+    font-family: "Brandon Text", Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 700;
+}
+#the{
+    text-align: center;
+    font-family: "Brandon Text", Arial, sans-serif;
+    font-weight: 100;
+    margin: 10px;
+
+}
+
+#explore{
+    text-align: center;
+    font-weight: lighter;
+}
+#shirt{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px; 
+    /* height: 400px; */
+}
+#fall{
+    margin: 8px;
+    font-size: 20px ;
+}
+#fashion{
+    margin: 8px;
+    font-weight: lighter;
+}
+#jean{
+    
+    margin: 8px;
+    font-weight: lighter;
+}
+
+
+#read{
+    margin: 5px;
+    font-weight: lighter;
+}
+#great{
+    padding: 10px;
+    margin-top: 100px;
+    font-size: 24px;
+    font-family: "Brandon Text", Arial, sans-serif;
+
+}
+#items{
+    margin: 11px;
+}
+#image{
+    display: flex;
+    justify-content: space-evenly;
+    /* height: 350px; */
+}
+#colorbox{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50%;
+    border:3px solid grey;
+
+}
+i{
+    background-color: black;
+}
+.colorpicker{
+    height:20px;
+    width:20px;
+    align-items: center;
+    border:2px solid grey;
+    list-style-type: none;
+    border-radius:50%;
+    
+    justify-content: space-evenly;
+}
+.black{
+    height:16px;
+    width:16px;
+}
+
+.btns{
+    display: flex;
+    
+    
+    justify-content: space-around;
+
+}
+
+.btns>p{
+    font-size: larger;
+    margin-top: 0px;
+    font-weight: bold;
+    color: gray;
+}
+#img{
+    height:316px;
+    width:213px;
+    margin:30px;
+    
+
+    
+}
+#b{
+    
+    height: 204px ;   
+    /* position: absolute; */
+}
+.box {
+    display: flex;
+    flex-direction: column;
+}
+.bannerDiv{
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.rightDiv{
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 204px;
+}
+
+.bannerTexts{
+    display: flex;
+    justify-content: center    ;
+    align-items: center;
+    height: 100%;
+}
+#category{
+    letter-spacing: 4px;
+    font-family: "Brandon Text", Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    font-weight: 700;
+
+}
+#women{
+    display: flex;
+    margin-bottom: 90px;
+    justify-content: center;
+}
+.img3{
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    font-family: "Brandon Text", Arial, sans-serif;
+}
+#currently{
+    letter-spacing: 4px;
+    font-family: "Brandon Text", Arial, sans-serif;
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 700;
+
+
+}
+#face{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+
+    
+}
+#img4{
+    width: 800px;
+    height: 300px;
+    margin: 5px;
+}
+h2{
+    font-family: "Brandon Text", Arial, sans-serif;
+    font-weight: 700;
+    margin: 5px;
+}
+#most{
+    margin: 5px;
+    font-family: "Brandon Text", Arial, sans-serif;
+    font-size: medium;
+    font-weight: lighter;
+}
+#img5{
+    height: 316px;
+    width: 213px;
+}
+#email{
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    
+    justify-content: end ;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    
+}
+#address{
+    margin:2px
+}
+#up{
+    background-color: black;
+    color: white;
+    margin: 2px;
+}
+#eye{
+    margin-left: 0px;
+}
+#service{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: 	#E5E4E2;
+    margin-top: 50px;
+}
+li{
+    list-style-type: none;
+    padding: 15px;
+    font-family: "Brandon Text", Arial, sans-serif;
+
+}
+#cus{
+    font-size: medium;
+    font-weight: 600;
+    font-family: "Brandon Text", Arial, sans-serif;
+
+}
+#img6{
+    height:30px;
+    width:30px;
+
+    padding: 2px;
+    display: flex;
+}
+#on{
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+#img7{
+    display: flex;
+    margin-top:100px;
+
+}
+#x{
+    text-align: center;
+    background-color: pink;
+    font-size: medium;
+    font-weight: 300;
+    font-family: "Brandon Text", Arial, sans-serif;
+}
+#mac{
+    margin:7px;
+    font-size: medium;
+    font-weight:100;
+    font-family: "Brandon Text", Arial, sans-serif;
+
+}
+#inr{
+    margin:7px;
+    margin-top: 15px;
+    font-size: medium;
+    font-weight:600;
+    font-family: "Brandon Text", Arial, sans-serif;
+
+}
